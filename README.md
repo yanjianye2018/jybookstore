@@ -1,6 +1,8 @@
 # jybookstore
 图书商城  
-     选择还是以传统的MVC模式为主， 采用DAO模式进行设计，选择web层、service层、dao层的三层结构。选择的 技术包括JSTL + JSP + Servlet + JavaBean + BeanUtils + JavaMail + DBUtils(JDBC) + C3P0 +  MySQL + IDEA + Tomcat8.0  
+     选择还是以传统的MVC模式为主， 采用DAO模式进行设计，选择web层、service层、dao层的三层结构。  
+     选择的技术包括JSTL + JSP + Servlet + JavaBean + BeanUtils + JavaMail + DBUtils(JDBC) + C3P0 +  MySQL + IDEA + Tomcat8.0  
+     
 主要功能  
 
 前台   
@@ -22,12 +24,13 @@
  
 后台：  
 
-管理员：登录  
+管理员：
+登录  
 
 分类管理：  
 添加分类、查看所有分类、删除分类、按id查询、修改分类  
 
-图书管理（我的）
+图书管理（我的）  
 查看所有图书、按id查询、删除图书、修改图书、添加图书（上传图片）  
 
 订单模块  
