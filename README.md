@@ -1,4 +1,4 @@
-# 金庸图书商城
+# 山寨金庸小说图书商城
 图书商城  
      选择还是以传统的MVC模式为主， 采用DAO模式进行设计，选择web层、service层、dao层的三层结构。  
      选择的技术包括JSTL + JSP + Servlet + JavaBean + BeanUtils + JavaMail + DBUtils(JDBC) + C3P0 +  MySQL + IDEA + Tomcat8.0  
